@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cs-scanbot</string>
+    <string name="title_activity_main">cs-scanbot</string>
+    <string name="package_name">cs.scanbot</string>
+    <string name="custom_url_scheme">cs.scanbot</string>
+</resources>
